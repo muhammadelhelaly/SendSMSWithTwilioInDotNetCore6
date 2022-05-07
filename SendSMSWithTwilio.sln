@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32427.441
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendSMSWithTwilio", "SendSMSWithTwilio\SendSMSWithTwilio.csproj", "{09B6440D-CBAD-46CD-95F6-4D2EE86CAEE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B6440D-CBAD-46CD-95F6-4D2EE86CAEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B6440D-CBAD-46CD-95F6-4D2EE86CAEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B6440D-CBAD-46CD-95F6-4D2EE86CAEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B6440D-CBAD-46CD-95F6-4D2EE86CAEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3169E34C-E5F8-4B71-B69B-7BD9FA720CE0}
+	EndGlobalSection
+EndGlobal
